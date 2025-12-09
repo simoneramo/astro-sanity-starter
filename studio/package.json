@@ -36,5 +36,8 @@
     "printWidth": 100,
     "bracketSpacing": false,
     "singleQuote": true
+  },
+  "overrides": {
+    "esbuild": "0.19.12"
   }
 }
